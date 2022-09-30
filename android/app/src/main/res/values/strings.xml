@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Slife</string>
+    <string name="facebook_app_id">450148710216227</string>
+    <string name="fb_login_protocol_scheme">450148710216227</string>
+    <string name="facebook_client_token">d0afef2c3fd83b675da047fdf067997d</string>
+    <string name="flutter_downloader_notification_started">Download started</string>
+    <string name="flutter_downloader_notification_in_progress">Download in progress</string>
+    <string name="flutter_downloader_notification_canceled">Download canceled</string>
+    <string name="flutter_downloader_notification_failed">Download failed</string>
+    <string name="flutter_downloader_notification_complete">Download complete</string>
+    <string name="flutter_downloader_notification_paused">Download paused</string>
+</resources>

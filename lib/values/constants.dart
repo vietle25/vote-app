@@ -1,0 +1,33 @@
+class Constants {
+  static const double margin = 4;
+  static const double margin8 = 8;
+  static const double margin10 = 10;
+  static const double margin12 = 12;
+  static const double margin16 = 16;
+  static const double margin20 = 20;
+  static const double margin24 = 24;
+  static const double margin28 = 28;
+  static const double margin32 = 32;
+  static const double margin36 = 36;
+  static const double margin48 = 48;
+  static const double padding = 4;
+  static const double padding8 = 8;
+  static const double padding10 = 10;
+  static const double padding12 = 12;
+  static const double padding16 = 16;
+  static const double padding20 = 20;
+  static const double padding24 = 24;
+  static const double padding28 = 28;
+  static const double padding32 = 32;
+  static const double padding36 = 36;
+  static const double padding48 = 48;
+  static const langCountryVN = "vi_VN";
+  static const langCountryEN = "en_US";
+  static const cornerRadius = 8.0; // Border radius
+  static const cornerRadiusCircle = 36.0; // Border radius
+  static const elevation = 4.0; // Elevation
+  static const borderRadius = 100.0;
+  static const borderWidth = 1.0;
+  static const topicNotification = "all";
+  static const pageSize = 20;
+}
